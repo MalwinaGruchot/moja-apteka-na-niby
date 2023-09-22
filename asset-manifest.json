@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moja-apteka-na-niby/static/css/main.1734fa41.css",
+    "main.js": "/moja-apteka-na-niby/static/js/main.c9293e30.js",
+    "index.html": "/moja-apteka-na-niby/index.html",
+    "main.1734fa41.css.map": "/moja-apteka-na-niby/static/css/main.1734fa41.css.map",
+    "main.c9293e30.js.map": "/moja-apteka-na-niby/static/js/main.c9293e30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1734fa41.css",
+    "static/js/main.c9293e30.js"
+  ]
+}
