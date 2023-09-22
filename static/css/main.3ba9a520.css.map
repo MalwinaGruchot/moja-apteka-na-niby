@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.3ba9a520.css","mappings":"AAAA,KAGE,cAAe,CAFf,QAAS,CACT,SAEF,CCJA,iBACE","sources":["index.css","components/App.module.scss"],"sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n  font-size: 36px;\n}\n",".test {\n  background-color: red;\n}\n"],"names":[],"sourceRoot":""}
