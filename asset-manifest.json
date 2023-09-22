@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/moja-apteka-na-niby/static/css/main.1734fa41.css",
-    "main.js": "/moja-apteka-na-niby/static/js/main.c9293e30.js",
+    "main.css": "/moja-apteka-na-niby/static/css/main.3ba9a520.css",
+    "main.js": "/moja-apteka-na-niby/static/js/main.9dcacc11.js",
     "index.html": "/moja-apteka-na-niby/index.html",
-    "main.1734fa41.css.map": "/moja-apteka-na-niby/static/css/main.1734fa41.css.map",
-    "main.c9293e30.js.map": "/moja-apteka-na-niby/static/js/main.c9293e30.js.map"
+    "main.3ba9a520.css.map": "/moja-apteka-na-niby/static/css/main.3ba9a520.css.map",
+    "main.9dcacc11.js.map": "/moja-apteka-na-niby/static/js/main.9dcacc11.js.map"
   },
   "entrypoints": [
-    "static/css/main.1734fa41.css",
-    "static/js/main.c9293e30.js"
+    "static/css/main.3ba9a520.css",
+    "static/js/main.9dcacc11.js"
   ]
 }
